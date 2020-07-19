@@ -1,2 +1,4 @@
-# My-Defender
-I had to recreate in CSFML a Tower Defense video game.
+# My Defender
+>*This project need the **CSFML Library***
+### USAGE :
+     make re && ./my_defender
